@@ -8,5 +8,12 @@ class Testing_branch_1 {
         numbers.forEach(System.out::println);
 
         System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
+        System.out.println("--------------");
     }
 }
